@@ -30,3 +30,4 @@ export default {
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
 
 will be committing 2nd branch changes
+adding 3rd brnach changes
